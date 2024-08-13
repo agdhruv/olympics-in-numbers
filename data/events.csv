@@ -1,0 +1,330 @@
+event_id,event_name,discipline_id
+BK3MTEAM3,Men,BK3
+BK3WTEAM3,Women,BK3
+ARCMINDIVID,Men's Individual,ARC
+ARCWINDIVID,Women's Individual,ARC
+ARCMTEAM3,Men's Team,ARC
+ARCWTEAM3,Women's Team,ARC
+ARCXTEAM2,Mixed Team,ARC
+GARMTEAM,Men's Team,GAR
+GARM1AA,Men's All-Around,GAR
+GARM1APFX,Men's Floor Exercise,GAR
+GARM1APPH,Men's Pommel Horse,GAR
+GARM1APSR,Men's Rings,GAR
+GARM1APVT,Men's Vault,GAR
+GARM1APPB,Men's Parallel Bars,GAR
+GARM1APHB,Men's Horizontal Bar,GAR
+GARWTEAM,Women's Team,GAR
+GARW1AA,Women's All-Around,GAR
+GARW1APVT,Women's Vault,GAR
+GARW1APUB,Women's Uneven Bars,GAR
+GARW1APBB,Women's Balance Beam,GAR
+GARW1APFX,Women's Floor Exercise,GAR
+SWAWTEAM2,Duet,SWA
+SWAOTEAM8,Team,SWA
+ATHM100M,Men's 100m,ATH
+ATHM200M,Men's 200m,ATH
+ATHM400M,Men's 400m,ATH
+ATHM800M,Men's 800m,ATH
+ATHM1500M,Men's 1500m,ATH
+ATHM5000M,Men's 5000m,ATH
+ATHM10000M,"Men's 10,000m",ATH
+ATHMMARATHON,Men's Marathon,ATH
+ATHM3000MST,Men's 3000m Steeplechase,ATH
+ATHM110MHURD,Men's 110m Hurdles,ATH
+ATHM400MHURD,Men's 400m Hurdles,ATH
+ATHMHIGHJUMP,Men's High Jump,ATH
+ATHMPLEVAULT,Men's Pole Vault,ATH
+ATHMLONGJUMP,Men's Long Jump,ATH
+ATHMTRPLJUMP,Men's Triple Jump,ATH
+ATHMSHOTPUT,Men's Shot Put,ATH
+ATHMDISCUS,Men's Discus Throw,ATH
+ATHMHAMMER,Men's Hammer Throw,ATH
+ATHMJAVELIN,Men's Javelin Throw,ATH
+ATHMDECATH,Men's Decathlon,ATH
+ATHM20KMWALK,Men's 20km Race Walk,ATH
+ATHM4X100M,Men's 4 x 100m Relay,ATH
+ATHM4X400M,Men's 4 x 400m Relay,ATH
+ATHW100M,Women's 100m,ATH
+ATHW200M,Women's 200m,ATH
+ATHW400M,Women's 400m,ATH
+ATHW800M,Women's 800m,ATH
+ATHW1500M,Women's 1500m,ATH
+ATHW5000M,Women's 5000m,ATH
+ATHW10000M,"Women's 10,000m",ATH
+ATHWMARATHON,Women's Marathon,ATH
+ATHW3000MST,Women's 3000m Steeplechase,ATH
+ATHW100MHURD,Women's 100m Hurdles,ATH
+ATHW400MHURD,Women's 400m Hurdles,ATH
+ATHWHIGHJUMP,Women's High Jump,ATH
+ATHWPLEVAULT,Women's Pole Vault,ATH
+ATHWLONGJUMP,Women's Long Jump,ATH
+ATHWTRPLJUMP,Women's Triple Jump,ATH
+ATHWSHOTPUT,Women's Shot Put,ATH
+ATHWDISCUS,Women's Discus Throw,ATH
+ATHWHAMMER,Women's Hammer Throw,ATH
+ATHWJAVELIN,Women's Javelin Throw,ATH
+ATHWHEPTATH,Women's Heptathlon,ATH
+ATHW20KMWALK,Women's 20km Race Walk,ATH
+ATHW4X100M,Women's 4 x 100m Relay,ATH
+ATHW4X400M,Women's 4 x 400m Relay,ATH
+ATHX4X400M,4 x 400m Relay Mixed,ATH
+ATHX42KWALKT,Marathon Race Walk Relay Mixed,ATH
+BDMMSINGLES,Men's Singles,BDM
+BDMWSINGLES,Women's Singles,BDM
+BDMMDOUBLES,Men's Doubles,BDM
+BDMWDOUBLES,Women's Doubles,BDM
+BDMXDOUBLES,Mixed Doubles,BDM
+BKBMTEAM5,Men,BKB
+BKBWTEAM5,Women,BKB
+VBVMTEAM2,Men,VBV
+VBVWTEAM2,Women,VBV
+BOXM51KG,Men's 51kg,BOX
+BOXM57KG,Men's 57kg,BOX
+BOXM63KG,Men's 63.5kg,BOX
+BOXM71KG,Men's 71kg,BOX
+BOXM80KG,Men's 80kg,BOX
+BOXM92KG,Men's 92kg,BOX
+BOXMO92KG,Men's +92kg,BOX
+BOXW50KG,Women's 50kg,BOX
+BOXW54KG,Women's 54kg,BOX
+BOXW57KG,Women's 57kg,BOX
+BOXW60KG,Women's 60kg,BOX
+BOXW66KG,Women's 66kg,BOX
+BOXW75KG,Women's 75kg,BOX
+BKGMINDIVID,B-Boys,BKG
+BKGWINDIVID,B-Girls,BKG
+CSLMK1,Men's Kayak Single,CSL
+CSLWK1,Women's Kayak Single,CSL
+CSLMC1,Men's Canoe Single,CSL
+CSLWC1,Women's Canoe Single,CSL
+CSLMX1,Men's Kayak Cross,CSL
+CSLWX1,Women's Kayak Cross,CSL
+CSPMK1-1000M,Men's Kayak Single 1000m,CSP
+CSPMK2-500M,Men's Kayak Double 500m,CSP
+CSPMK4-500M,Men's Kayak Four 500m,CSP
+CSPMC1-1000M,Men's Canoe Single 1000m,CSP
+CSPMC2-500M,Men's Canoe Double 500m,CSP
+CSPWK1-500M,Women's Kayak Single 500m,CSP
+CSPWK2-500M,Women's Kayak Double 500m,CSP
+CSPWK4-500M,Women's Kayak Four 500m,CSP
+CSPWC1-200M,Women's Canoe Single 200m,CSP
+CSPWC2-500M,Women's Canoe Double 500m,CSP
+BMFWINDVFRST,Women's Park,BMF
+BMFMINDVFRST,Men's Park,BMF
+BMXWINDVRACE,Women,BMX
+BMXMINDVRACE,Men,BMX
+MTBMXCTRY,Men's Cross-country,MTB
+MTBWXCTRY,Women's Cross-country,MTB
+CRDMRR,Men's Road Race,CRD
+CRDWRR,Women's Road Race,CRD
+CRDMTT,Men's Individual Time Trial,CRD
+CRDWTT,Women's Individual Time Trial,CRD
+CTRMSPRTEAM3,Men's Team Sprint,CTR
+CTRMSPRINT,Men's Sprint,CTR
+CTRMKEIRIN,Men's Keirin,CTR
+CTRMPURTEAM4,Men's Team Pursuit,CTR
+CTRMOMNIUM,Men's Omnium,CTR
+CTRMMADISON,Men's Madison,CTR
+CTRWSPRTEAM3,Women's Team Sprint,CTR
+CTRWSPRINT,Women's Sprint,CTR
+CTRWKEIRIN,Women's Keirin,CTR
+CTRWPURTEAM4,Women's Team Pursuit,CTR
+CTRWOMNIUM,Women's Omnium,CTR
+CTRWMADISON,Women's Madison,CTR
+DIVW3M,Women's 3m Springboard,DIV
+DIVW10M,Women's 10m Platform,DIV
+DIVW3MTEAM2,Women's Synchronised 3m Springboard,DIV
+DIVW10MTEAM2,Women's Synchronised 10m Platform,DIV
+DIVM3M,Men's 3m Springboard,DIV
+DIVM10M,Men's 10m Platform,DIV
+DIVM3MTEAM2,Men's Synchronised 3m Springboard,DIV
+DIVM10MTEAM2,Men's Synchronised 10m Platform,DIV
+EQUOEVENTEAM,Eventing Team,EQU
+EQUOEVENINDV,Eventing Individual,EQU
+EQUODRESTEAM,Dressage Team,EQU
+EQUODRESINDV,Dressage Individual,EQU
+EQUOJUMPTEAM,Jumping Team,EQU
+EQUOJUMPINDV,Jumping Individual,EQU
+FENWEPEE,Women's Épée Individual,FEN
+FENWFOIL,Women's Foil Individual,FEN
+FENWSABRE,Women's Sabre Individual,FEN
+FENMEPEE,Men's Épée Individual,FEN
+FENMFOIL,Men's Foil Individual,FEN
+FENMSABRE,Men's Sabre Individual,FEN
+FENWTEAMEPEE,Women's Épée Team,FEN
+FENWTEAMFOIL,Women's Foil Team,FEN
+FENWTEAMSABR,Women's Sabre Team,FEN
+FENMTEAMEPEE,Men's Épée Team,FEN
+FENMTEAMFOIL,Men's Foil Team,FEN
+FENMTEAMSABR,Men's Sabre Team,FEN
+FBLMTEAM11,Men,FBL
+FBLWTEAM11,Women,FBL
+GLFMSTROKE,Men's Individual Stroke Play,GLF
+GLFWSTROKE,Women's Individual Stroke Play,GLF
+HBLMTEAM7,Men,HBL
+HBLWTEAM7,Women,HBL
+HOCMTEAM11,Men,HOC
+HOCWTEAM11,Women,HOC
+JUDW48KG,Women -48 kg,JUD
+JUDW52KG,Women -52 kg,JUD
+JUDW57KG,Women -57 kg,JUD
+JUDW63KG,Women -63 kg,JUD
+JUDW70KG,Women -70 kg,JUD
+JUDW78KG,Women -78 kg,JUD
+JUDWO78KG,Women +78 kg,JUD
+JUDM60KG,Men -60 kg,JUD
+JUDM66KG,Men -66 kg,JUD
+JUDM73KG,Men -73 kg,JUD
+JUDM81KG,Men -81 kg,JUD
+JUDM90KG,Men -90 kg,JUD
+JUDM100KG,Men -100 kg,JUD
+JUDMO100KG,Men +100 kg,JUD
+JUDXTEAM6,Mixed Team,JUD
+OWSW10KM,Women's 10km,OWS
+OWSM10KM,Men's 10km,OWS
+MPNWINDIVID,Women's Individual,MPN
+MPNMINDIVID,Men's Individual,MPN
+GRYW1AA,Individual All-Around,GRY
+GRYW5AA,Group All-Around,GRY
+ROWWNOCOX2,Women's Pair,ROW
+ROWMNOCOX2,Men's Pair,ROW
+ROWWSCULL2,Women's Double Sculls,ROW
+ROWMSCULL2,Men's Double Sculls,ROW
+ROWWNOCOX4,Women's Four,ROW
+ROWMNOCOX4,Men's Four,ROW
+ROWWSCULL1,Women's Single Sculls,ROW
+ROWMSCULL1,Men's Single Sculls,ROW
+ROWWSCULL2-L,Lightweight Women's Double Sculls,ROW
+ROWMSCULL2-L,Lightweight Men's Double Sculls,ROW
+ROWWSCULL4,Women's Quadruple Sculls,ROW
+ROWMSCULL4,Men's Quadruple Sculls,ROW
+ROWWCOXED8,Women's Eight,ROW
+ROWMCOXED8,Men's Eight,ROW
+RU7MTEAM7,Men,RU7
+RU7WTEAM7,Women,RU7
+SALMIQFOIL,Men's Windsurfing,SAL
+SALMFORMKITE,Men's Kite,SAL
+SALMILCA7,Men's Dinghy,SAL
+SALM49ER,Men's Skiff,SAL
+SALWIQFOIL,Women's Windsurfing,SAL
+SALWFORMKITE,Women's Kite,SAL
+SALWILCA6,Women's Dinghy,SAL
+SALW49ERFX,Women's Skiff,SAL
+SALX470,Mixed Dinghy,SAL
+SALXNACRA17,Mixed Multihull,SAL
+SHOMARM,10m Air Rifle Men,SHO
+SHOMR3PM,50m Rifle 3 Positions Men,SHO
+SHOMAPM,10m Air Pistol Men,SHO
+SHOMRFPM,25m Rapid Fire Pistol Men,SHO
+SHOMTRM,Trap Men,SHO
+SHOMSKM,Skeet Men,SHO
+SHOWARW,10m Air Rifle Women,SHO
+SHOWR3PW,50m Rifle 3 Positions Women,SHO
+SHOWAPW,10m Air Pistol Women,SHO
+SHOWSPW,25m Pistol Women,SHO
+SHOWTRW,Trap Women,SHO
+SHOWSKW,Skeet Women,SHO
+SHOXARMT,10m Air Rifle Mixed Team,SHO
+SHOXAPMT,10m Air Pistol Mixed Team,SHO
+SHOXSKMT,Skeet Mixed Team,SHO
+SKBWSTREET,Women's Street,SKB
+SKBMSTREET,Men's Street,SKB
+SKBWPARK,Women's Park,SKB
+SKBMPARK,Men's Park,SKB
+CLBWBLCOMB,Women's Boulder & Lead,CLB
+CLBWSPEED,Women's Speed,CLB
+CLBMBLCOMB,Men's Boulder & Lead,CLB
+CLBMSPEED,Men's Speed,CLB
+SRFMSHORTBRD,Men,SRF
+SRFWSHORTBRD,Women,SRF
+SWMW50MFR,Women's 50m Freestyle,SWM
+SWMW100MFR,Women's 100m Freestyle,SWM
+SWMW200MFR,Women's 200m Freestyle,SWM
+SWMW400MFR,Women's 400m Freestyle,SWM
+SWMW800MFR,Women's 800m Freestyle,SWM
+SWMW1500MFR,Women's 1500m Freestyle,SWM
+SWMW100MBA,Women's 100m Backstroke,SWM
+SWMW200MBA,Women's 200m Backstroke,SWM
+SWMW100MBR,Women's 100m Breaststroke,SWM
+SWMW200MBR,Women's 200m Breaststroke,SWM
+SWMW100MBF,Women's 100m Butterfly,SWM
+SWMW200MBF,Women's 200m Butterfly,SWM
+SWMW200MIM,Women's 200m Individual Medley,SWM
+SWMW400MIM,Women's 400m Individual Medley,SWM
+SWMW4X100MFR,Women's 4 x 100m Freestyle Relay,SWM
+SWMW4X200MFR,Women's 4 x 200m Freestyle Relay,SWM
+SWMW4X100MMD,Women's 4 x 100m Medley Relay,SWM
+SWMM50MFR,Men's 50m Freestyle,SWM
+SWMM100MFR,Men's 100m Freestyle,SWM
+SWMM200MFR,Men's 200m Freestyle,SWM
+SWMM400MFR,Men's 400m Freestyle,SWM
+SWMM800MFR,Men's 800m Freestyle,SWM
+SWMM1500MFR,Men's 1500m Freestyle,SWM
+SWMM100MBA,Men's 100m Backstroke,SWM
+SWMM200MBA,Men's 200m Backstroke,SWM
+SWMM100MBR,Men's 100m Breaststroke,SWM
+SWMM200MBR,Men's 200m Breaststroke,SWM
+SWMM100MBF,Men's 100m Butterfly,SWM
+SWMM200MBF,Men's 200m Butterfly,SWM
+SWMM200MIM,Men's 200m Individual Medley,SWM
+SWMM400MIM,Men's 400m Individual Medley,SWM
+SWMM4X100MFR,Men's 4 x 100m Freestyle Relay,SWM
+SWMM4X200MFR,Men's 4 x 200m Freestyle Relay,SWM
+SWMM4X100MMD,Men's 4 x 100m Medley Relay,SWM
+SWMX4X100MMD,Mixed 4 x 100m Medley Relay,SWM
+TTEMSINGLES,Men's Singles,TTE
+TTEWSINGLES,Women's Singles,TTE
+TTEXDOUBLES,Mixed Doubles,TTE
+TTEMTEAM,Men's Team,TTE
+TTEWTEAM,Women's Team,TTE
+TKWM58KG,Men -58kg,TKW
+TKWM68KG,Men -68kg,TKW
+TKWM80KG,Men -80kg,TKW
+TKWMO80KG,Men +80kg,TKW
+TKWW49KG,Women -49kg,TKW
+TKWW57KG,Women -57kg,TKW
+TKWW67KG,Women -67kg,TKW
+TKWWO67KG,Women +67kg,TKW
+TENMSINGLES,Men's Singles,TEN
+TENWSINGLES,Women's Singles,TEN
+TENMDOUBLES,Men's Doubles,TEN
+TENWDOUBLES,Women's Doubles,TEN
+TENXDOUBLES,Mixed Doubles,TEN
+GTRM1TRA,Men,GTR
+GTRW1TRA,Women,GTR
+TRIWOLYMPIC,Women's Individual,TRI
+TRIMOLYMPIC,Men's Individual,TRI
+TRIXTEAM4,Mixed Relay,TRI
+VVOMTEAM6,Men,VVO
+VVOWTEAM6,Women,VVO
+WPOMTEAM7,Men,WPO
+WPOWTEAM7,Women,WPO
+WLFW49KG,Women's 49kg,WLF
+WLFW59KG,Women's 59kg,WLF
+WLFW71KG,Women's 71kg,WLF
+WLFW81KG,Women's 81kg,WLF
+WLFWO81KG,Women's +81kg,WLF
+WLFM61KG,Men's 61kg,WLF
+WLFM73KG,Men's 73kg,WLF
+WLFM89KG,Men's 89kg,WLF
+WLFM102KG,Men's 102kg,WLF
+WLFMO102KG,Men's +102kg,WLF
+WREMGR60KG,Men's Greco-Roman 60kg,WRE
+WREMGR67KG,Men's Greco-Roman 67kg,WRE
+WREMGR77KG,Men's Greco-Roman 77kg,WRE
+WREMGR87KG,Men's Greco-Roman 87kg,WRE
+WREMGR97KG,Men's Greco-Roman 97kg,WRE
+WREMGR130KG,Men's Greco-Roman 130kg,WRE
+WREWFS50KG,Women's Freestyle 50kg,WRE
+WREWFS53KG,Women's Freestyle 53kg,WRE
+WREWFS57KG,Women's Freestyle 57kg,WRE
+WREWFS62KG,Women's Freestyle 62kg,WRE
+WREWFS68KG,Women's Freestyle 68kg,WRE
+WREWFS76KG,Women's Freestyle 76kg,WRE
+WREMFS57KG,Men's Freestyle 57kg,WRE
+WREMFS65KG,Men's Freestyle 65kg,WRE
+WREMFS74KG,Men's Freestyle 74kg,WRE
+WREMFS86KG,Men's Freestyle 86kg,WRE
+WREMFS97KG,Men's Freestyle 97kg,WRE
+WREMFS125KG,Men's Freestyle 125kg,WRE

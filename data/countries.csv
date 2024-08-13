@@ -1,0 +1,207 @@
+longName,continent,country_id,country_name,forgeSlug
+Afghanistan,ASI,AFG,Afghanistan,
+Albania,EUR,ALB,Albania,noc-al
+Algeria,AFR,ALG,Algeria,noc-dz
+American Samoa,OCE,ASA,American Samoa,noc-as
+Andorra,EUR,AND,Andorra,noc-ad
+Angola,AFR,ANG,Angola,noc-ao
+Antigua and Barbuda,AME,ANT,Antigua and Barbuda,noc-ag
+Argentina,AME,ARG,Argentina,noc-ar
+Armenia,EUR,ARM,Armenia,
+Aruba,AME,ARU,Aruba,noc-aw
+Australia,OCE,AUS,Australia,noc-au
+Austria,EUR,AUT,Austria,noc-at
+Azerbaijan,EUR,AZE,Azerbaijan,noc-az
+Bahamas,AME,BAH,Bahamas,noc-bs
+Bahrain,ASI,BRN,Bahrain,noc-bh
+Bangladesh,ASI,BAN,Bangladesh,noc-bd
+Barbados,AME,BAR,Barbados,noc-bb
+Belgium,EUR,BEL,Belgium,noc-be
+Belize,AME,BIZ,Belize,noc-bz
+Benin,AFR,BEN,Benin,noc-bj
+Bermuda,AME,BER,Bermuda,noc-bm
+Bhutan,ASI,BHU,Bhutan,noc-bt
+Bolivia,AME,BOL,Bolivia,noc-bo
+Bosnia and Herzegovina,EUR,BIH,Bosnia & Herzegovina,noc-ba
+Botswana,AFR,BOT,Botswana,noc-bw
+Brazil,AME,BRA,Brazil,noc-br
+Brunei Darussalam,ASI,BRU,Brunei Darussalam,noc-brunei
+Bulgaria,EUR,BUL,Bulgaria,noc-bg
+Burkina Faso,AFR,BUR,Burkina Faso,noc-bf
+Burundi,AFR,BDI,Burundi,noc-bi
+Cabo Verde,AFR,CPV,Cabo Verde,noc-cv
+Cambodia,ASI,CAM,Cambodia,noc-kh
+Cameroon,AFR,CMR,Cameroon,noc-cm
+Canada,AME,CAN,Canada,noc-ca
+Cayman Islands,AME,CAY,Cayman Islands,noc-ky
+Central African Republic,AFR,CAF,Centr Afric Rep,noc-cf
+Chad,AFR,CHA,Chad,noc-td
+Chile,AME,CHI,Chile,noc-cl
+Colombia,AME,COL,Colombia,noc-co
+Comoros,AFR,COM,Comoros,noc-km
+Congo,AFR,CGO,Congo,noc-cg
+Cook Islands,OCE,COK,Cook Islands,noc-ck
+Costa Rica,AME,CRC,Costa Rica,noc-cr
+Côte d'Ivoire,AFR,CIV,Côte d'Ivoire,noc-ci
+Croatia,EUR,CRO,Croatia,noc-hr
+Cuba,AME,CUB,Cuba,noc-cu
+Cyprus,EUR,CYP,Cyprus,noc-cy
+Czechia,EUR,CZE,Czechia,noc-cz
+Democratic People's Republic of Korea,ASI,PRK,DPR Korea,noc-kp
+Democratic Republic of the Congo,AFR,COD,DR Congo,noc-zrcd
+Democratic Republic of Timor-Leste,ASI,TLS,Timor-Leste,noc-tl
+Denmark,EUR,DEN,Denmark,noc-dk
+Djibouti,AFR,DJI,Djibouti,noc-dj
+Dominica,AME,DMA,Dominica,noc-dm
+Dominican Republic,AME,DOM,Dominican Republic,noc-do
+Ecuador,AME,ECU,Ecuador,noc-ec
+Egypt,AFR,EGY,Egypt,noc-eg
+El Salvador,AME,ESA,El Salvador,noc-sv
+Equatorial Guinea,AFR,GEQ,Equatorial Guinea,noc-gq
+Eritrea,AFR,ERI,Eritrea,noc-er
+Estonia,EUR,EST,Estonia,noc-ee
+Eswatini,AFR,SWZ,Eswatini,noc-sz
+Ethiopia,AFR,ETH,Ethiopia,noc-et
+Federated States of Micronesia,OCE,FSM,Micronesia,noc-fm
+Fiji,OCE,FIJ,Fiji,noc-fj
+Finland,EUR,FIN,Finland,noc-fi
+France,EUR,FRA,France,noc-fr
+Gabon,AFR,GAB,Gabon,noc-ga
+Gambia,AFR,GAM,Gambia,noc-gm
+Georgia,EUR,GEO,Georgia,noc-ge
+Germany,EUR,GER,Germany,noc-de
+Ghana,AFR,GHA,Ghana,noc-gh
+Great Britain,EUR,GBR,Great Britain,noc-gb
+Greece,EUR,GRE,Greece,noc-gr
+Grenada,AME,GRN,Grenada,noc-gd
+Guam,OCE,GUM,Guam,noc-gu
+Guatemala,AME,GUA,Guatemala,noc-gt
+Guinea,AFR,GUI,Guinea,noc-gn
+Guinea-Bissau,AFR,GBS,Guinea-Bissau,noc-gw
+Guyana,AME,GUY,Guyana,noc-gy
+Haiti,AME,HAI,Haiti,noc-ht
+Honduras,AME,HON,Honduras,noc-hn
+"Hong Kong, China",ASI,HKG,"Hong Kong, China",noc-hk
+Hungary,EUR,HUN,Hungary,noc-hu
+Iceland,EUR,ISL,Iceland,noc-is
+India,ASI,IND,India,noc-in
+Indonesia,ASI,INA,Indonesia,noc-id
+Iraq,ASI,IRQ,Iraq,noc-iq
+Ireland,EUR,IRL,Ireland,noc-ie
+Islamic Republic of Iran,ASI,IRI,IR Iran,noc-ir
+Israel,EUR,ISR,Israel,noc-il
+Italy,EUR,ITA,Italy,noc-it
+Jamaica,AME,JAM,Jamaica,noc-jm
+Japan,ASI,JPN,Japan,noc-jp
+Jordan,ASI,JOR,Jordan,noc-jo
+Kazakhstan,ASI,KAZ,Kazakhstan,noc-kz
+Kenya,AFR,KEN,Kenya,noc-ke
+Kiribati,OCE,KIR,Kiribati,noc-ki
+Kosovo,EUR,KOS,Kosovo,noc-kosovo-olympic-committee
+Kuwait,ASI,KUW,Kuwait,noc-kw
+Kyrgyzstan,ASI,KGZ,Kyrgyzstan,noc-kg
+Lao People's Democratic Republic,ASI,LAO,Lao PDR,noc-la
+Latvia,EUR,LAT,Latvia,noc-lv
+Lebanon,ASI,LBN,Lebanon,noc-lb
+Lesotho,AFR,LES,Lesotho,noc-ls
+Liberia,AFR,LBR,Liberia,noc-lr
+Libya,AFR,LBA,Libya,noc-ly
+Liechtenstein,EUR,LIE,Liechtenstein,noc-li
+Lithuania,EUR,LTU,Lithuania,noc-lt
+Luxembourg,EUR,LUX,Luxembourg,
+Madagascar,AFR,MAD,Madagascar,noc-mg
+Malawi,AFR,MAW,Malawi,noc-mw
+Malaysia,ASI,MAS,Malaysia,noc-my
+Maldives,ASI,MDV,Maldives,noc-mv
+Mali,AFR,MLI,Mali,noc-ml
+Malta,EUR,MLT,Malta,noc-mt
+Marshall Islands,OCE,MHL,Marshall Islands,noc-mh
+Mauritania,AFR,MTN,Mauritania,noc-mr
+Mauritius,AFR,MRI,Mauritius,noc-mu
+Mexico,AME,MEX,Mexico,noc-mx
+Monaco,EUR,MON,Monaco,noc-mc
+Mongolia,ASI,MGL,Mongolia,noc-mn
+Montenegro,EUR,MNE,Montenegro,noc-me
+Morocco,AFR,MAR,Morocco,noc-ma
+Mozambique,AFR,MOZ,Mozambique,noc-mz
+Myanmar,ASI,MYA,Myanmar,noc-mm
+Namibia,AFR,NAM,Namibia,noc-na
+Nauru,OCE,NRU,Nauru,noc-nr
+Nepal,ASI,NEP,Nepal,noc-np
+Netherlands,EUR,NED,Netherlands,noc-nl
+New Zealand,OCE,NZL,New Zealand,noc-nz
+Nicaragua,AME,NCA,Nicaragua,noc-ni
+Niger,AFR,NIG,Niger,noc-ne
+Nigeria,AFR,NGR,Nigeria,noc-ng
+North Macedonia,EUR,MKD,North Macedonia,noc-mk
+Norway,EUR,NOR,Norway,noc-no
+Oman,ASI,OMA,Oman,noc-om
+Pakistan,ASI,PAK,Pakistan,noc-pk
+Palau,OCE,PLW,Palau,noc-pw
+Palestine,ASI,PLE,Palestine,noc-ps
+Panama,AME,PAN,Panama,noc-pa
+Papua New Guinea,OCE,PNG,Papua New Guinea,noc-pg
+Paraguay,AME,PAR,Paraguay,noc-py
+People's Republic of China,ASI,CHN,China,noc-cn
+Peru,AME,PER,Peru,noc-pe
+Philippines,ASI,PHI,Philippines,noc-ph
+Poland,EUR,POL,Poland,noc-pl
+Portugal,EUR,POR,Portugal,noc-pt
+Puerto Rico,AME,PUR,Puerto Rico,noc-pr
+Qatar,ASI,QAT,Qatar,noc-qa
+Refugee Olympic Team,,EOR,EOR,noc-refugee-olympic-team
+Republic of Korea,ASI,KOR,Korea,noc-kr
+Republic of Moldova,EUR,MDA,Republic of Moldova,noc-md
+Romania,EUR,ROU,Romania,noc-ro
+Rwanda,AFR,RWA,Rwanda,noc-rw
+Saint Kitts and Nevis,AME,SKN,St Kitts and Nevis,noc-kn
+Saint Lucia,AME,LCA,Saint Lucia,noc-lc
+Samoa,OCE,SAM,Samoa,noc-ws
+San Marino,EUR,SMR,San Marino,noc-sm
+Sao Tome and Principe,AFR,STP,Sao Tome & Principe,noc-st
+Saudi Arabia,ASI,KSA,Saudi Arabia,noc-sa
+Senegal,AFR,SEN,Senegal,noc-sn
+Serbia,EUR,SRB,Serbia,noc-rs
+Seychelles,AFR,SEY,Seychelles,noc-sc
+Sierra Leone,AFR,SLE,Sierra Leone,
+Singapore,ASI,SGP,Singapore,noc-sg
+Slovakia,EUR,SVK,Slovakia,noc-sk
+Slovenia,EUR,SLO,Slovenia,noc-si
+Solomon Islands,OCE,SOL,Solomon Islands,noc-sb
+Somalia,AFR,SOM,Somalia,noc-so
+South Africa,AFR,RSA,South Africa,noc-za
+South Sudan,AFR,SSD,South Sudan,noc-south-sudan
+Spain,EUR,ESP,Spain,noc-es
+Sri Lanka,ASI,SRI,Sri Lanka,noc-lk
+St Vincent and the Grenadines,AME,VIN,StVincent&Grenadines,noc-vc
+Sudan,AFR,SUD,Sudan,noc-sd
+Suriname,AME,SUR,Suriname,
+Sweden,EUR,SWE,Sweden,noc-se
+Switzerland,EUR,SUI,Switzerland,noc-ch
+Syrian Arab Republic,ASI,SYR,Syria,noc-sy
+Tajikistan,ASI,TJK,Tajikistan,noc-tj
+Thailand,ASI,THA,Thailand,noc-th
+Togo,AFR,TOG,Togo,noc-tg
+Tonga,OCE,TGA,Tonga,noc-to
+Chinese Taipei,ASI,TPE,Chinese Taipei,noc-tw
+Trinidad and Tobago,AME,TTO,Trinidad and Tobago,noc-tt
+Tunisia,AFR,TUN,Tunisia,noc-tn
+Türkiye,EUR,TUR,Türkiye,noc-tr
+Turkmenistan,ASI,TKM,Turkmenistan,noc-tm
+Tuvalu,OCE,TUV,Tuvalu,noc-tv
+Uganda,AFR,UGA,Uganda,noc-ug
+Ukraine,EUR,UKR,Ukraine,noc-ua
+United Arab Emirates,ASI,UAE,UA Emirates,noc-ae
+United Republic of Tanzania,AFR,TAN,Tanzania,noc-tz
+United States of America,AME,USA,United States,noc-us
+Uruguay,AME,URU,Uruguay,noc-uy
+Uzbekistan,ASI,UZB,Uzbekistan,noc-uz
+Vanuatu,OCE,VAN,Vanuatu,noc-vu
+Venezuela,AME,VEN,Venezuela,noc-ve
+Vietnam,ASI,VIE,Vietnam,noc-vn
+"Virgin Islands, British",AME,IVB,"Virgin Islands, B",noc-vg
+"Virgin Islands, US",AME,ISV,"Virgin Islands, US",noc-vi
+Yemen,ASI,YEM,Yemen,noc-ye
+Zambia,AFR,ZAM,Zambia,noc-zm
+Zimbabwe,AFR,ZIM,Zimbabwe,noc-zw
+AIN,,AIN,AIN,
