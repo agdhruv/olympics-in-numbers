@@ -28,6 +28,13 @@ def load_athletes():
 
     return df
 
+def load_horses():
+    df = pd.read_csv('data/horses.csv')
+    df = df.set_index('horse_id')
+    df['year_of_birth'] = df['year_of_birth'].astype(int)
+    
+    return df
+
 def load_medallists():
     df = pd.read_csv('data/medallists.csv')
     return df

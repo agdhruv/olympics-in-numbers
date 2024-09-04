@@ -18,3 +18,5 @@ I hope this dataset can encourage more fine-grained analysis and understanding, 
 - Athletes: 11110
   - Largest contingents: USA (690), France (600), Australia (475)
   - Smallest contingents: Belize, Somalia, Liechtenstein, Nauru (all one)
+
+Here are some more interesting stats: [Twitter](https://x.com/agdhruv/status/1823401946935599597), [LinkedIn](https://www.linkedin.com/posts/agdhruv_github-agdhruvolympics-in-numbers-structured-activity-7229683253257846785-_OKB)
